@@ -58,7 +58,7 @@ nav a:hover {
     padding: 100px 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center 40%;
+    justify-content: center top;
     text-align: center;
     color: white;
     background-color: #102a43;
